@@ -6,7 +6,7 @@ public class FaceBook {
 	
 	
 	@Test
-	public void test1() {
+	public void  test1() {
 		System.out.println("FaceBook test 1");
 	}
 	@Test
@@ -20,6 +20,7 @@ public class FaceBook {
 	@Test
 	public void test4() {
 		System.out.println("FaceBook test 4");
+		System.out.println("hello world");
 	}
 
 }

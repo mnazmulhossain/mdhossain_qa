@@ -1,39 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-23T23:27:48 EDT" name="Suite" finished-at="2020-06-23T23:27:48 EDT" duration-ms="55">
+  <suite started-at="2020-06-28T02:54:30 EDT" name="Default suite" finished-at="2020-06-28T02:54:30 EDT" duration-ms="40">
     <groups>
     </groups>
-    <test started-at="2020-06-23T23:27:48 EDT" name="sanity Test" finished-at="2020-06-23T23:27:48 EDT" duration-ms="55">
-      <class name="socialMedia.Twitter">
-        <test-method signature="LoginTest2()[pri:0, instance:socialMedia.Twitter@1d082e88]" started-at="2020-06-23T23:27:48 EDT" name="LoginTest2" finished-at="2020-06-23T23:27:48 EDT" duration-ms="11" status="PASS">
+    <test started-at="2020-06-28T02:54:30 EDT" name="Default test" finished-at="2020-06-28T02:54:30 EDT" duration-ms="40">
+      <class name="socialMedia.FaceBook">
+        <test-method signature="test1()[pri:0, instance:socialMedia.FaceBook@23986957]" started-at="2020-06-28T02:54:30 EDT" name="test1" finished-at="2020-06-28T02:54:30 EDT" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest2 -->
-        <test-method signature="LoginTest3()[pri:0, instance:socialMedia.Twitter@1d082e88]" started-at="2020-06-23T23:27:48 EDT" name="LoginTest3" finished-at="2020-06-23T23:27:48 EDT" duration-ms="1" status="PASS">
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:socialMedia.FaceBook@23986957]" started-at="2020-06-28T02:54:30 EDT" name="test2" finished-at="2020-06-28T02:54:30 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest3 -->
-        <test-method signature="LoginTest4()[pri:0, instance:socialMedia.Twitter@1d082e88]" started-at="2020-06-23T23:27:48 EDT" name="LoginTest4" finished-at="2020-06-23T23:27:48 EDT" duration-ms="1" status="PASS">
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:socialMedia.FaceBook@23986957]" started-at="2020-06-28T02:54:30 EDT" name="test3" finished-at="2020-06-28T02:54:30 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest4 -->
-      </class> <!-- socialMedia.Twitter -->
-      <class name="socialMedia.MySpace">
-        <test-method signature="Test1()[pri:0, instance:socialMedia.MySpace@60704c]" started-at="2020-06-23T23:27:48 EDT" name="Test1" finished-at="2020-06-23T23:27:48 EDT" duration-ms="1" status="PASS">
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:socialMedia.FaceBook@23986957]" started-at="2020-06-28T02:54:30 EDT" name="test4" finished-at="2020-06-28T02:54:30 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test1 -->
-        <test-method signature="Test2()[pri:0, instance:socialMedia.MySpace@60704c]" started-at="2020-06-23T23:27:48 EDT" name="Test2" finished-at="2020-06-23T23:27:48 EDT" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test2 -->
-        <test-method signature="Test3()[pri:0, instance:socialMedia.MySpace@60704c]" started-at="2020-06-23T23:27:48 EDT" name="Test3" finished-at="2020-06-23T23:27:48 EDT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test3 -->
-      </class> <!-- socialMedia.MySpace -->
-    </test> <!-- sanity Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- test4 -->
+      </class> <!-- socialMedia.FaceBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -27,7 +27,7 @@
           <version>3.0.0-M4</version>
            <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>sanity.xml</suiteXmlFile>
+            <suiteXmlFile>smoke.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
         </plugin>
